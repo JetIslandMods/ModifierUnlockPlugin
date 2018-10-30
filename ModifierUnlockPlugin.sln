@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModifierUnlockPlugin", "ModifierUnlockPlugin\ModifierUnlockPlugin.csproj", "{DABD02BF-EF94-4E82-8D97-FFAE3DE0409F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DABD02BF-EF94-4E82-8D97-FFAE3DE0409F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DABD02BF-EF94-4E82-8D97-FFAE3DE0409F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DABD02BF-EF94-4E82-8D97-FFAE3DE0409F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DABD02BF-EF94-4E82-8D97-FFAE3DE0409F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E27386D5-02AE-4537-AF30-499A8B8D8F1E}
+	EndGlobalSection
+EndGlobal
