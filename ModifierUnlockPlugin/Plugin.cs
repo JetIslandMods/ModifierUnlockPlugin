@@ -14,7 +14,7 @@ namespace ModifierUnlockPlugin
         private int _currentLevelId = 0;
         private int[] _modifierButtons =
         {
-            18,19,22,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38
+            18,19,20,22,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38
         };
 
         public string Name
@@ -23,7 +23,7 @@ namespace ModifierUnlockPlugin
         }
         public string Version
         {
-            get { return "0.9"; }
+            get { return "0.91"; }
         }
 
         public void OnApplicationQuit()
